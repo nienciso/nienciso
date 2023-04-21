@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**nienciso/nienciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, i am Nicolás Enciso ! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 I’m currently learning javascript
+
+👨‍💻 in the process of creating new projects...
+
+💬 I know technologies like html, css, Javascript, php, mysql.
+
+📫 How to reach me nienciso2@gmail.com
+## 🛠 Languages and Tools:
+
+
+
+
+
+
