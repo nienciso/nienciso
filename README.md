@@ -3,7 +3,7 @@
 
 
 
- - 🌱 I’m currently learning javascript
+ - 🌱 I’m currently learning javascript.
 
  - 👨‍💻 in the process of creating new projects...
 
