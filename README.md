@@ -10,7 +10,8 @@
 💬 I know technologies like html, css, Javascript, php, mysql.
 
 📫 How to reach me nienciso2@gmail.com
-## 🛠 Languages and Tools:
+
+## 🛠 Languages and Tools
 
 
 
