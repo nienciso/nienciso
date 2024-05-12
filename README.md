@@ -3,11 +3,11 @@
 
 
 
- - 🌱 I’m currently learning javascript.
+ - 🌱 I’m currently learning C#.
 
  - 👨‍💻 in the process of creating new projects...
 
- - 💬 I know technologies like HTML, CSS, Javascript, php, mysql.
+ - 💬 I know technologies like HTML, CSS, Javascript, php, mysql, Node.JS.
 
  - 📫 How to reach me nienciso2@gmail.com
 
