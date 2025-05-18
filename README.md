@@ -7,9 +7,11 @@
 
  - 👨‍💻 in the process of creating new projects...
 
- - 💬 I know technologies like HTML, CSS, Javascript, php, mysql, Node.JS.
+ - 💬 I know technologies like HTML, CSS, Javascript, php, mysql, C#.
 
- - 📫 How to reach me nienciso2@gmail.com
+ - 🎓 I am currently studying Systems Analyst at BIOS.
+
+ - 📫 How to reach me nienciso2@gmail.com.
 
 ## 🛠 Languages and Tools
 
